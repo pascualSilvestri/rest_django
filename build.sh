@@ -2,7 +2,6 @@
 # exit on error
 set -o errexit
 
-pip install
 
 pip install -r requeriments.txt
 
