@@ -2,7 +2,7 @@
 # exit on error
 set -o errexit
 
-poetry install
+pip install
 
 pip install -r requeriments.txt
 
